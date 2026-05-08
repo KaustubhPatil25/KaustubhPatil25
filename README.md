@@ -3,7 +3,7 @@
 `Full-Stack Developer` · `AI/ML Engineer` · `MSc CS Student`
 
 MSc Computer Science @ Memorial University of Newfoundland, Canada 🍁
-Previously Web Operations Engineer @ Mudra-Abhinitee · AWS Certified Cloud Practitioner · Omdena AI Collaborator
+Previously Software Developer @ Mudra-Abhinitee · AWS Certified Cloud Practitioner · Omdena AI Collaborator
 
 ---
 
